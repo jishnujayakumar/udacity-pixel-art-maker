@@ -7,6 +7,8 @@ This web page was built for the Udacity Front End Nanodegree Program. The purpos
 ![screenshot](screenshot.png)
 
 ## How to Load the App
+You can run a hosted version of the app at [https://codepen.io/jishnup/pen/OZpwXN](https://codepen.io/jishnup/pen/OZpwXN)
+
 To run a local copy, clone or download the code repository at [https://github.com/jishnujayakumar/udacity-pixel-art-maker.git](https://github.com/jishnujayakumar/udacity-pixel-art-maker.git). If downloaded, unzip the folder and run `index.html` in your favorite browser.
 
 ## How to Use the App
